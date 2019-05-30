@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BeatSaberQuestSongloader.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AvailableSongsFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SongsToLoadFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.\SongsToLoad\</Value>
+    </Setting>
+    <Setting Name="JARSIGNERLOC_Folder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ADB_Folder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="apktool_Folder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="songeconverter_Folder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BeatMapAssetMaker_Folder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.\tools\</Value>
+    </Setting>
+    <Setting Name="apkFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.\apk\</Value>
+    </Setting>
+    <Setting Name="assetsFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.\assets\</Value>
+    </Setting>
+    <Setting Name="backupFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.\backup\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
